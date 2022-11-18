@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-
+![Imagen](src/assets/captura.png)
 
 In the project directory, you can run:
 
