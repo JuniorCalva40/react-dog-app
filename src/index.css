@@ -1,0 +1,21 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+img {
+  border: none;
+}
+ol,
+ul {
+  list-style-type: none;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(174, 174, 175);
+  line-height: 1.8;
+  background: rgb(42,33,33);
+background: linear-gradient(90deg, rgba(133, 133, 133, 0.723) 39%, rgb(181, 181, 181) 71%);
+}

@@ -1,0 +1,25 @@
+
+
+.select-container {
+  width: 75%;
+  height: 5rem;
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+select {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  border-radius: 8px;
+  border-style: none;
+  
+}
+.loading {
+  width: 100px;
+}
+.loading-gif {
+  width: 100%;
+}

@@ -1,0 +1,23 @@
+.Container-principal{
+display: inline-flex;
+align-items: center;
+padding: 2rem;
+}
+.Container-principal .image-container {
+  height: 300px;
+  width: 300px;
+  border: 2px solid #464947;
+  border-radius: 1rem;
+}
+.Container-principal .image-container:hover{
+  transform: scale(1.2);
+  transition: all 1s;
+  border: 3px solid black;
+  border-radius: 1rem;
+}
+ .Container-principal .image-card {
+ border-radius: 1rem ;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
