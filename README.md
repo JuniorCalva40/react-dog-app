@@ -3,8 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-## Click para video Test YouTube ▶️
-[![img](src/assets/Captura.png)](https://youtu.be/yFW7R2rGoRk)
 
 In the project directory, you can run:
 
